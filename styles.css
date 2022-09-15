@@ -26,4 +26,8 @@ button{
     color: white;
     background-color: rgb(243, 150, 10);
     border-radius: 2px;
+    transition: .2s;
+}
+button:active{
+    background-color: rgb(212, 131, 9);
 }
